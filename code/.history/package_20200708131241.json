@@ -1,0 +1,16 @@
+{
+  "name": "fed-e-task-01-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PPPPPer/fed-e-task-01-01.git",
+  "author": "wangpeipei <1325106245@qq.com>",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "snabbdom": "^0.7.4"
+  }
+}
